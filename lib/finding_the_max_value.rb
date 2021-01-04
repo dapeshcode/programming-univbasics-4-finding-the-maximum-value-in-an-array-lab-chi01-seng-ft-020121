@@ -7,6 +7,7 @@ def find_max_value(array)
        count += 1
      end 
    end 
+   p max_value
 end 
 
 test = [1, 5, 3, 2, 8, 4, 6]
