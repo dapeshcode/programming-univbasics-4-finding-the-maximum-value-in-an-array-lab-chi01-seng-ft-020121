@@ -11,6 +11,8 @@ def find_max_value(array)
     
 end 
 
+test = [1, 5, 3, 2, 8, 4, 6]
+
 
 # def find_max_value(array)
 #   sorted_array = array.sort 
