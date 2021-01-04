@@ -12,7 +12,7 @@ def find_max_value(array)
    p max_value
 end 
 
-test = [1, 5, 3, 2, 8, 4, 6]
+test = [1, 5, 3, 2, 4, 6]
 
 find_max_value(test)
 
