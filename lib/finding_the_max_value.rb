@@ -9,7 +9,7 @@ def find_max_value(array)
        count += 1
      end 
    end 
-   p max_value
+   max_value
 end 
 
 test = [10, 5, 3, 2, 4, 6]
